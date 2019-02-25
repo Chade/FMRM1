@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map For Wire
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+FMRM_init	KEYWORD2
+FMRM_power_up	KEYWORD2
+FMRM_power_down	KEYWORD2
+FMRM_config	KEYWORD2
+FMRM_volume_set	KEYWORD2
+FMRM_volume_get	KEYWORD2
+FMRM_audio_mute	KEYWORD2
+FMRM_antenna_select	KEYWORD2
+FMRM_frequenzcy_set	KEYWORD2
+FMRM_tune_status_get	KEYWORD2
+FMRM_seek	KEYWORD2
+FMRM_seek_manual	KEYWORD2
+FMRM_get_revision	KEYWORD2
+FMRM_rds_config	KEYWORD2
+FMRM_read_rds	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+Radio	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
